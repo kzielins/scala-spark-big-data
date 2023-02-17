@@ -1,3 +1,5 @@
+*.streams
+*.task-temp-directory
 *.DS_Store
 *.swp
 *~
